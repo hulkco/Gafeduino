@@ -4,8 +4,8 @@
 #include <ESP8266WiFi.h>
 #define OLED_RESET 4
 Adafruit_SSD1306 display(OLED_RESET);
-#define SSID "anacleta3456"                              // insert your SSID
-#define PASS "Cachito3017"                              // insert your password
+#define SSID "xxxxx"                              // insert your SSID
+#define PASS "xxxxx"                              // insert your password
 //Imagen o Logo
 
 const unsigned char img [] PROGMEM = {
